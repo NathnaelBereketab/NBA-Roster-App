@@ -1,0 +1,514 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Los Angeles Lakers",
+      "conference": "Western",
+      "city": "Los Angeles",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+      "roster": [
+        {"name": "LeBron James", "position": "SF", "number": 6, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/2544.png"},
+        {"name": "Anthony Davis", "position": "PF", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203076.png"},
+        {"name": "D'Angelo Russell", "position": "PG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626156.png"},
+        {"name": "Austin Reaves", "position": "SG", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630559.png"},
+        {"name": "Rui Hachimura", "position": "PF", "number": 28, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629060.png"},
+        {"name": "Jarred Vanderbilt", "position": "PF", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629020.png"},
+        {"name": "Gabe Vincent", "position": "PG", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629216.png"},
+        {"name": "Taurean Prince", "position": "SF", "number": 12, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627752.png"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics",
+      "conference": "Eastern",
+      "city": "Boston",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+      "roster": [
+        {"name": "Jayson Tatum", "position": "SF", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628369.png"},
+        {"name": "Jaylen Brown", "position": "SG", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627759.png"},
+        {"name": "Kristaps Porzingis", "position": "C", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/204001.png"},
+        {"name": "Derrick White", "position": "PG", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628401.png"},
+        {"name": "Jrue Holiday", "position": "PG", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201950.png"},
+        {"name": "Al Horford", "position": "C", "number": 42, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201143.png"},
+        {"name": "Payton Pritchard", "position": "PG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630202.png"},
+        {"name": "Sam Hauser", "position": "SF", "number": 30, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630573.png"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Golden State Warriors",
+      "conference": "Western",
+      "city": "San Francisco",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+      "roster": [
+        {"name": "Stephen Curry", "position": "PG", "number": 30, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201939.png"},
+        {"name": "Klay Thompson", "position": "SG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202691.png"},
+        {"name": "Draymond Green", "position": "PF", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203110.png"},
+        {"name": "Andrew Wiggins", "position": "SF", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203952.png"},
+        {"name": "Kevon Looney", "position": "C", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626172.png"},
+        {"name": "Chris Paul", "position": "PG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/101108.png"},
+        {"name": "Jonathan Kuminga", "position": "SF", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630228.png"},
+        {"name": "Gary Payton II", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627780.png"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Miami Heat",
+      "conference": "Eastern",
+      "city": "Miami",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg",
+      "roster": [
+        {"name": "Jimmy Butler", "position": "SF", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202710.png"},
+        {"name": "Bam Adebayo", "position": "C", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628389.png"},
+        {"name": "Tyler Herro", "position": "SG", "number": 14, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629639.png"},
+        {"name": "Duncan Robinson", "position": "SG", "number": 55, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629130.png"},
+        {"name": "Kyle Lowry", "position": "PG", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/200768.png"},
+        {"name": "Caleb Martin", "position": "SF", "number": 16, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628997.png"},
+        {"name": "Haywood Highsmith", "position": "SF", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629312.png"},
+        {"name": "Jaime Jaquez Jr.", "position": "SF", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641710.png"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chicago Bulls",
+      "conference": "Eastern",
+      "city": "Chicago",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+      "roster": [
+        {"name": "DeMar DeRozan", "position": "SG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201942.png"},
+        {"name": "Zach LaVine", "position": "SG", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203897.png"},
+        {"name": "Nikola Vucevic", "position": "C", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202696.png"},
+        {"name": "Coby White", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629632.png"},
+        {"name": "Patrick Williams", "position": "PF", "number": 44, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630172.png"},
+        {"name": "Ayo Dosunmu", "position": "PG", "number": 12, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630245.png"},
+        {"name": "Andre Drummond", "position": "C", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203083.png"},
+        {"name": "Alex Caruso", "position": "SG", "number": 6, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627936.png"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Phoenix Suns",
+      "conference": "Western",
+      "city": "Phoenix",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+      "roster": [
+        {"name": "Devin Booker", "position": "SG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626164.png"},
+        {"name": "Kevin Durant", "position": "SF", "number": 35, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201142.png"},
+        {"name": "Bradley Beal", "position": "SG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203078.png"},
+        {"name": "Jusuf Nurkic", "position": "C", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203994.png"},
+        {"name": "Grayson Allen", "position": "SG", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628960.png"},
+        {"name": "Eric Gordon", "position": "SG", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201569.png"},
+        {"name": "Drew Eubanks", "position": "C", "number": 14, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629234.png"},
+        {"name": "Josh Okogie", "position": "SG", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629006.png"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "New York Knicks",
+      "conference": "Eastern",
+      "city": "New York",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+      "roster": [
+        {"name": "Jalen Brunson", "position": "PG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628973.png"},
+        {"name": "Julius Randle", "position": "PF", "number": 30, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203944.png"},
+        {"name": "RJ Barrett", "position": "SF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629628.png"},
+        {"name": "Mitchell Robinson", "position": "C", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629011.png"},
+        {"name": "Immanuel Quickley", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630193.png"},
+        {"name": "Josh Hart", "position": "SG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628404.png"},
+        {"name": "Donte DiVincenzo", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628978.png"},
+        {"name": "Quentin Grimes", "position": "SG", "number": 6, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629656.png"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dallas Mavericks",
+      "conference": "Western",
+      "city": "Dallas",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+      "roster": [
+        {"name": "Luka Doncic", "position": "PG", "number": 77, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629029.png"},
+        {"name": "Kyrie Irving", "position": "PG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202681.png"},
+        {"name": "Tim Hardaway Jr.", "position": "SG", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203501.png"},
+        {"name": "Grant Williams", "position": "PF", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629684.png"},
+        {"name": "Dereck Lively II", "position": "C", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641717.png"},
+        {"name": "Josh Green", "position": "SG", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630182.png"},
+        {"name": "Dwight Powell", "position": "C", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203939.png"},
+        {"name": "Dante Exum", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203957.png"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Milwaukee Bucks",
+      "conference": "Eastern",
+      "city": "Milwaukee",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg",
+      "roster": [
+        {"name": "Giannis Antetokounmpo", "position": "PF", "number": 34, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203507.png"},
+        {"name": "Damian Lillard", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203081.png"},
+        {"name": "Khris Middleton", "position": "SF", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203114.png"},
+        {"name": "Brook Lopez", "position": "C", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201572.png"},
+        {"name": "Bobby Portis", "position": "PF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626171.png"},
+        {"name": "Malik Beasley", "position": "SG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627736.png"},
+        {"name": "Pat Connaughton", "position": "SG", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626192.png"},
+        {"name": "Jae Crowder", "position": "PF", "number": 99, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203109.png"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Denver Nuggets",
+      "conference": "Western",
+      "city": "Denver",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+      "roster": [
+        {"name": "Nikola Jokic", "position": "C", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203999.png"},
+        {"name": "Jamal Murray", "position": "PG", "number": 27, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627750.png"},
+        {"name": "Michael Porter Jr.", "position": "SF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629008.png"},
+        {"name": "Aaron Gordon", "position": "PF", "number": 50, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203932.png"},
+        {"name": "Kentavious Caldwell-Pope", "position": "SG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203484.png"},
+        {"name": "Reggie Jackson", "position": "PG", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202704.png"},
+        {"name": "Christian Braun", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631128.png"},
+        {"name": "Peyton Watson", "position": "SF", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631212.png"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Philadelphia 76ers",
+      "conference": "Eastern",
+      "city": "Philadelphia",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg",
+      "roster": [
+        {"name": "Joel Embiid", "position": "C", "number": 21, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203954.png"},
+        {"name": "Tyrese Maxey", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630178.png"},
+        {"name": "Tobias Harris", "position": "PF", "number": 12, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202699.png"},
+        {"name": "James Harden", "position": "SG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201935.png"},
+        {"name": "De'Anthony Melton", "position": "SG", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629001.png"},
+        {"name": "P.J. Tucker", "position": "PF", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/200782.png"},
+        {"name": "Danuel House", "position": "SF", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627863.png"},
+        {"name": "Paul Reed", "position": "PF", "number": 44, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630194.png"}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Portland Trail Blazers",
+      "conference": "Western",
+      "city": "Portland",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg",
+      "roster": [
+        {"name": "Anfernee Simons", "position": "SG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629014.png"},
+        {"name": "Jerami Grant", "position": "PF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203924.png"},
+        {"name": "Deandre Ayton", "position": "C", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629028.png"},
+        {"name": "Scoot Henderson", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630703.png"},
+        {"name": "Shaedon Sharpe", "position": "SG", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631101.png"},
+        {"name": "Malcolm Brogdon", "position": "PG", "number": 92, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627763.png"},
+        {"name": "Robert Williams", "position": "C", "number": 44, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629057.png"},
+        {"name": "Matisse Thybulle", "position": "SF", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629680.png"}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Toronto Raptors",
+      "conference": "Eastern",
+      "city": "Toronto",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg",
+      "roster": [
+        {"name": "Pascal Siakam", "position": "PF", "number": 43, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627783.png"},
+        {"name": "OG Anunoby", "position": "SF", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628384.png"},
+        {"name": "Scottie Barnes", "position": "SF", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630567.png"},
+        {"name": "Jakob Poeltl", "position": "C", "number": 19, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627751.png"},
+        {"name": "Gary Trent Jr.", "position": "SG", "number": 33, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629018.png"},
+        {"name": "Dennis Schroder", "position": "PG", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203471.png"},
+        {"name": "Chris Boucher", "position": "PF", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628449.png"},
+        {"name": "Precious Achiuwa", "position": "PF", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630173.png"}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Los Angeles Clippers",
+      "conference": "Western",
+      "city": "Los Angeles",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg",
+      "roster": [
+        {"name": "Kawhi Leonard", "position": "SF", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202695.png"},
+        {"name": "Paul George", "position": "SF", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202331.png"},
+        {"name": "Russell Westbrook", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201566.png"},
+        {"name": "Ivica Zubac", "position": "C", "number": 40, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627826.png"},
+        {"name": "Norman Powell", "position": "SG", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626181.png"},
+        {"name": "Terance Mann", "position": "SG", "number": 14, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629611.png"},
+        {"name": "Mason Plumlee", "position": "C", "number": 44, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203486.png"},
+        {"name": "Bones Hyland", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630538.png"}
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Brooklyn Nets",
+      "conference": "Eastern",
+      "city": "Brooklyn",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+      "roster": [
+        {"name": "Mikal Bridges", "position": "SF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628969.png"},
+        {"name": "Cam Johnson", "position": "SF", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629667.png"},
+        {"name": "Nic Claxton", "position": "C", "number": 33, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629651.png"},
+        {"name": "Spencer Dinwiddie", "position": "PG", "number": 26, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203915.png"},
+        {"name": "Dorian Finney-Smith", "position": "PF", "number": 28, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627827.png"},
+        {"name": "Royce O'Neale", "position": "SF", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626220.png"},
+        {"name": "Cam Thomas", "position": "SG", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630560.png"},
+        {"name": "Ben Simmons", "position": "PG", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627732.png"}
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Utah Jazz",
+      "conference": "Western",
+      "city": "Salt Lake City",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg",
+      "roster": [
+        {"name": "Lauri Markkanen", "position": "PF", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628374.png"},
+        {"name": "Jordan Clarkson", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203903.png"},
+        {"name": "Collin Sexton", "position": "PG", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629012.png"},
+        {"name": "Walker Kessler", "position": "C", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631117.png"},
+        {"name": "John Collins", "position": "PF", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628381.png"},
+        {"name": "Talen Horton-Tucker", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629659.png"},
+        {"name": "Kelly Olynyk", "position": "C", "number": 41, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203482.png"},
+        {"name": "Kris Dunn", "position": "PG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627739.png"}
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Atlanta Hawks",
+      "conference": "Eastern",
+      "city": "Atlanta",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg",
+      "roster": [
+        {"name": "Trae Young", "position": "PG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629027.png"},
+        {"name": "Dejounte Murray", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627749.png"},
+        {"name": "Clint Capela", "position": "C", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203991.png"},
+        {"name": "Bogdan Bogdanovic", "position": "SG", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203992.png"},
+        {"name": "De'Andre Hunter", "position": "SF", "number": 12, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629631.png"},
+        {"name": "Saddiq Bey", "position": "SF", "number": 41, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630180.png"},
+        {"name": "Onyeka Okongwu", "position": "C", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630168.png"},
+        {"name": "Jalen Johnson", "position": "PF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630552.png"}
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Memphis Grizzlies",
+      "conference": "Western",
+      "city": "Memphis",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg",
+      "roster": [
+        {"name": "Ja Morant", "position": "PG", "number": 12, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629630.png"},
+        {"name": "Jaren Jackson Jr.", "position": "PF", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628991.png"},
+        {"name": "Desmond Bane", "position": "SG", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630217.png"},
+        {"name": "Marcus Smart", "position": "PG", "number": 36, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203935.png"},
+        {"name": "Xavier Tillman", "position": "C", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630214.png"},
+        {"name": "Luke Kennard", "position": "SG", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628379.png"},
+        {"name": "Brandon Clarke", "position": "PF", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629634.png"},
+        {"name": "Ziaire Williams", "position": "SF", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630533.png"}
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Washington Wizards",
+      "conference": "Eastern",
+      "city": "Washington",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg",
+      "roster": [
+        {"name": "Kyle Kuzma", "position": "PF", "number": 33, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628398.png"},
+        {"name": "Jordan Poole", "position": "SG", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629673.png"},
+        {"name": "Tyus Jones", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626145.png"},
+        {"name": "Daniel Gafford", "position": "C", "number": 21, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629655.png"},
+        {"name": "Deni Avdija", "position": "SF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630166.png"},
+        {"name": "Corey Kispert", "position": "SF", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630557.png"},
+        {"name": "Bilal Coulibaly", "position": "SF", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641731.png"},
+        {"name": "Landry Shamet", "position": "SG", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629015.png"}
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sacramento Kings",
+      "conference": "Western",
+      "city": "Sacramento",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg",
+      "roster": [
+        {"name": "De'Aaron Fox", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628368.png"},
+        {"name": "Domantas Sabonis", "position": "C", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627734.png"},
+        {"name": "Malik Monk", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628370.png"},
+        {"name": "Keegan Murray", "position": "PF", "number": 13, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631099.png"},
+        {"name": "Harrison Barnes", "position": "SF", "number": 40, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203084.png"},
+        {"name": "Kevin Huerter", "position": "SG", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628989.png"},
+        {"name": "Trey Lyles", "position": "PF", "number": 41, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626168.png"},
+        {"name": "Davion Mitchell", "position": "PG", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630558.png"}
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Indiana Pacers",
+      "conference": "Eastern",
+      "city": "Indianapolis",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg",
+      "roster": [
+        {"name": "Tyrese Haliburton", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630169.png"},
+        {"name": "Myles Turner", "position": "C", "number": 33, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626167.png"},
+        {"name": "Buddy Hield", "position": "SG", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627741.png"},
+        {"name": "Bennedict Mathurin", "position": "SG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631097.png"},
+        {"name": "Aaron Nesmith", "position": "SF", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630174.png"},
+        {"name": "Obi Toppin", "position": "PF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630163.png"},
+        {"name": "Bruce Brown", "position": "SG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628971.png"},
+        {"name": "Jalen Smith", "position": "PF", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630188.png"}
+      ]
+    },
+    {
+      "id": 22,
+      "name": "San Antonio Spurs",
+      "conference": "Western",
+      "city": "San Antonio",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg",
+      "roster": [
+        {"name": "Victor Wembanyama", "position": "C", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641909.png"},
+        {"name": "Devin Vassell", "position": "SG", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630170.png"},
+        {"name": "Keldon Johnson", "position": "SF", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629640.png"},
+        {"name": "Jeremy Sochan", "position": "PF", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631110.png"},
+        {"name": "Tre Jones", "position": "PG", "number": 33, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630200.png"},
+        {"name": "Zach Collins", "position": "C", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628380.png"},
+        {"name": "Malaki Branham", "position": "SG", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631103.png"},
+        {"name": "Cedi Osman", "position": "SF", "number": 16, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626224.png"}
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Cleveland Cavaliers",
+      "conference": "Eastern",
+      "city": "Cleveland",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg",
+      "roster": [
+        {"name": "Donovan Mitchell", "position": "SG", "number": 45, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628378.png"},
+        {"name": "Darius Garland", "position": "PG", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629636.png"},
+        {"name": "Evan Mobley", "position": "C", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630596.png"},
+        {"name": "Jarrett Allen", "position": "C", "number": 31, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628386.png"},
+        {"name": "Max Strus", "position": "SF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629622.png"},
+        {"name": "Caris LeVert", "position": "SG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627747.png"},
+        {"name": "Isaac Okoro", "position": "SF", "number": 35, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630171.png"},
+        {"name": "Georges Niang", "position": "PF", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627777.png"}
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Oklahoma City Thunder",
+      "conference": "Western",
+      "city": "Oklahoma City",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg",
+      "roster": [
+        {"name": "Shai Gilgeous-Alexander", "position": "PG", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628983.png"},
+        {"name": "Chet Holmgren", "position": "C", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631096.png"},
+        {"name": "Jalen Williams", "position": "SF", "number": 8, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631114.png"},
+        {"name": "Josh Giddey", "position": "PG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630581.png"},
+        {"name": "Luguentz Dort", "position": "SG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629652.png"},
+        {"name": "Isaiah Joe", "position": "SG", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630198.png"},
+        {"name": "Jaylin Williams", "position": "PF", "number": 6, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631115.png"},
+        {"name": "Cason Wallace", "position": "PG", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641730.png"}
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Detroit Pistons",
+      "conference": "Eastern",
+      "city": "Detroit",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg",
+      "roster": [
+        {"name": "Cade Cunningham", "position": "PG", "number": 2, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630595.png"},
+        {"name": "Jaden Ivey", "position": "SG", "number": 23, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631093.png"},
+        {"name": "Ausar Thompson", "position": "SF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641732.png"},
+        {"name": "Jalen Duren", "position": "C", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631105.png"},
+        {"name": "Bojan Bogdanovic", "position": "SF", "number": 44, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202711.png"},
+        {"name": "Isaiah Stewart", "position": "C", "number": 28, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630191.png"},
+        {"name": "Marcus Sasser", "position": "PG", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641733.png"},
+        {"name": "Killian Hayes", "position": "PG", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630165.png"}
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Minnesota Timberwolves",
+      "conference": "Western",
+      "city": "Minneapolis",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+      "roster": [
+        {"name": "Anthony Edwards", "position": "SG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630162.png"},
+        {"name": "Karl-Anthony Towns", "position": "C", "number": 32, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626157.png"},
+        {"name": "Rudy Gobert", "position": "C", "number": 27, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203497.png"},
+        {"name": "Mike Conley", "position": "PG", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/201144.png"},
+        {"name": "Jaden McDaniels", "position": "SF", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630183.png"},
+        {"name": "Naz Reid", "position": "C", "number": 11, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629675.png"},
+        {"name": "Kyle Anderson", "position": "PF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203937.png"},
+        {"name": "Nickeil Alexander-Walker", "position": "SG", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629638.png"}
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Charlotte Hornets",
+      "conference": "Eastern",
+      "city": "Charlotte",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg",
+      "roster": [
+        {"name": "LaMelo Ball", "position": "PG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630163.png"},
+        {"name": "Terry Rozier", "position": "PG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626179.png"},
+        {"name": "Brandon Miller", "position": "SF", "number": 24, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641734.png"},
+        {"name": "Gordon Hayward", "position": "SF", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202330.png"},
+        {"name": "P.J. Washington", "position": "PF", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629023.png"},
+        {"name": "Mark Williams", "position": "C", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631109.png"},
+        {"name": "Miles Bridges", "position": "SF", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628964.png"},
+        {"name": "Nick Richards", "position": "C", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630208.png"}
+      ]
+    },
+    {
+      "id": 28,
+      "name": "New Orleans Pelicans",
+      "conference": "Western",
+      "city": "New Orleans",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+      "roster": [
+        {"name": "Zion Williamson", "position": "PF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1629627.png"},
+        {"name": "Brandon Ingram", "position": "SF", "number": 14, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627742.png"},
+        {"name": "CJ McCollum", "position": "SG", "number": 3, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/203468.png"},
+        {"name": "Jonas Valanciunas", "position": "C", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/202685.png"},
+        {"name": "Herb Jones", "position": "SF", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630529.png"},
+        {"name": "Trey Murphy III", "position": "SF", "number": 25, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630530.png"},
+        {"name": "Larry Nance Jr.", "position": "PF", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1626204.png"},
+        {"name": "Jose Alvarado", "position": "PG", "number": 15, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630631.png"}
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Orlando Magic",
+      "conference": "Eastern",
+      "city": "Orlando",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg",
+      "roster": [
+        {"name": "Paolo Banchero", "position": "PF", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631094.png"},
+        {"name": "Franz Wagner", "position": "SF", "number": 22, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630532.png"},
+        {"name": "Wendell Carter Jr.", "position": "C", "number": 34, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628976.png"},
+        {"name": "Jalen Suggs", "position": "PG", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630591.png"},
+        {"name": "Markelle Fultz", "position": "PG", "number": 20, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628365.png"},
+        {"name": "Cole Anthony", "position": "PG", "number": 50, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630175.png"},
+        {"name": "Jonathan Isaac", "position": "PF", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628371.png"},
+        {"name": "Anthony Black", "position": "PG", "number": 0, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641718.png"}
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Houston Rockets",
+      "conference": "Western",
+      "city": "Houston",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg",
+      "roster": [
+        {"name": "Alperen Sengun", "position": "C", "number": 28, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630578.png"},
+        {"name": "Jalen Green", "position": "SG", "number": 4, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1630584.png"},
+        {"name": "Fred VanVleet", "position": "PG", "number": 5, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1627832.png"},
+        {"name": "Jabari Smith Jr.", "position": "PF", "number": 10, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631098.png"},
+        {"name": "Dillon Brooks", "position": "SF", "number": 9, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1628415.png"},
+        {"name": "Amen Thompson", "position": "PG", "number": 1, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641735.png"},
+        {"name": "Tari Eason", "position": "SF", "number": 17, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1631106.png"},
+        {"name": "Cam Whitmore", "position": "SF", "number": 7, "image": "https://cdn.nba.com/headshots/nba/latest/260x190/1641736.png"}
+      ]
+    }
+  ]
+}
